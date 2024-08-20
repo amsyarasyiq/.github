@@ -1,1 +1,1 @@
-# .github
+redirect: @pylixonly
